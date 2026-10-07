@@ -20,11 +20,11 @@ A compact custom-designed mini keyboard featuring **4 mechanical-style switches*
 
 ## 🛠️ BOM
 * Custom PCB
+*  Custom 3D-printed enclosure
 * 1 Seeeduino XIAO microcontroller
 * 4 MX switches
 * 1 rotary encoder
 * 7 SK6812 MINI-E LEDs
-* Custom 3D-printed enclosure
 * 1 Soldering Iron
 * Printing Legion Grant
 * Hackpad PCB Grant
@@ -32,7 +32,8 @@ A compact custom-designed mini keyboard featuring **4 mechanical-style switches*
 
 * `PCB/` – PCB design files<img width="1124" height="749" alt="Screenshot 2026-10-05 174413" src="https://github.com/user-attachments/assets/679f046c-9174-439d-a970-783e87df5bf2" /><img width="1127" height="707" alt="Screenshot 2026-10-07 183610" src="https://github.com/user-attachments/assets/f953d59c-2781-46df-b64a-bb9d902ddc28" />
 
-* `CAD/` – 3D models and enclosure
+* `CAD/` – 3D models and enclosure<img width="1120" height="713" alt="Screenshot 2026-10-07 224350" src="https://github.com/user-attachments/assets/c0ea652a-659d-4cb7-ac8d-3d173a748260" />
+
 * `Firmware/` – Keyboard firmware
 * `README.md` – Project information
 
