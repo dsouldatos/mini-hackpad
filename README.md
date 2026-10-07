@@ -17,9 +17,8 @@ A compact custom-designed mini keyboard featuring **4 mechanical-style switches*
 * Designed in CAD
 * Easy to customize and modify
 <img width="745" height="574" alt="Screenshot 2026-10-06 180636" src="https://github.com/user-attachments/assets/c0510df7-7afb-4e7f-ab4b-20c6d36c2f93" />
+
 ## 🛠️ BOM
-
-
 * * Custom PCB
 * 1 Seeeduino XIAO microcontroller
 * 4 MX switches
