@@ -6,7 +6,7 @@ Layout (inverted T, like a real arrow cluster):
             [SW1 = UP]
   [SW2 = DOWN] [SW4 = LEFT] [SW3 = RIGHT]
 
-Pins and LED chain order are taken from your schematic ("davids 1").
+Pins and LED chain order are taken from schematic
 """
 
 import time
