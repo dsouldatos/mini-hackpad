@@ -26,7 +26,8 @@ A compact custom-designed mini keyboard featuring **4 mechanical-style switches*
 * 7 SK6812 MINI-E LEDs
 * Custom 3D-printed enclosure
 * 1 Soldering Iron
-* 
+* Printing Legion Grant
+* Hackpad PCB Grant
 ## 📁 Project Files
 
 * `PCB/` – PCB design files<img width="1124" height="749" alt="Screenshot 2026-10-05 174413" src="https://github.com/user-attachments/assets/679f046c-9174-439d-a970-783e87df5bf2" /><img width="1127" height="707" alt="Screenshot 2026-10-07 183610" src="https://github.com/user-attachments/assets/f953d59c-2781-46df-b64a-bb9d902ddc28" />
