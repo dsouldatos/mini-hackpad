@@ -34,7 +34,8 @@ A compact custom-designed mini keyboard featuring **4 mechanical-style switches*
 
 * `CAD/` – 3D models and enclosure<img width="1120" height="713" alt="Screenshot 2026-10-07 224350" src="https://github.com/user-attachments/assets/c0ea652a-659d-4cb7-ac8d-3d173a748260" />
 
-* `Firmware/` – Keyboard firmware
+* `Firmware/` – Keyboard firmware<img width="1125" height="719" alt="image" src="https://github.com/user-attachments/assets/0427548e-3c8e-4803-8d42-40a9874cf595" />
+
 * `README.md` – Project information
 
 ## 🚀 Project Status
