@@ -37,12 +37,7 @@ A compact custom-designed mini keyboard featuring **4 mechanical-style switches*
 
 ## 🚀 Project Status
 
-The PCB and enclosure have been designed, and the project is currently being assembled and tested.
-
-## 📸 Photos
-
-Photos and renders of the finished keyboard will be added here.
-
+The PCB and enclosure have been designed
 ## 📜 License
 
 This project is open-source. You are welcome to use, modify, and improve the design.
