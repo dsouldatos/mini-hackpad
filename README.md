@@ -33,7 +33,6 @@ A compact custom-designed mini keyboard featuring **4 mechanical-style switches*
 
 * `CAD/` – 3D models and enclosure
 * `Firmware/` – Keyboard firmware
-* `Images/` – Project photos
 * `README.md` – Project information
 
 ## 🚀 Project Status
